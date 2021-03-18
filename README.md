@@ -3,6 +3,11 @@
 **NOTE: This module uses free proxies(https://www.sslproxies.org/), So your should use your own proxy using the param own_proxy**
 **This module allows your scrap any website safely using proxies**
 
+**Requirements**
+`requests`
+`random`
+`bs4`
+
 Example:
 ```py
 # Example
