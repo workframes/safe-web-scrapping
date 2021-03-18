@@ -1,6 +1,7 @@
 # safe-web-scrapping
 
-**NOTE: This module uses free proxies(https://www.sslproxies.org/), So your should use your own proxy using the param own_proxy**
+**NOTE: This module uses free proxies(https://www.sslproxies.org/), So your should use your own proxy using the param "own_proxy"**
+
 **This module allows your scrap any website safely using proxies**
 
 **Requirements**
